@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Add type hints for function" />
+    <ignoreAction name="Python/Specify type for reference in docstring" />
+    <ignoreAction name="Python/Specify type for reference using annotation" />
+  </component>
+</application>

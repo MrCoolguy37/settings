@@ -1,0 +1,139 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/rogue3/input_handlers.py" timestamp="1553550172979">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/start_script.py" timestamp="1553546877482">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553537455012">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1553550042708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lasttdd/functional_tests.py" timestamp="1553536358500">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lasttdd/lists/views.py" timestamp="1553537761365">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1553543799539">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/pytdd/functional_tests.py" timestamp="1553530877694">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rogue3/ipython_config.py" timestamp="1553548820800">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1553529466405">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/rogue3/engine.py" timestamp="1553550785828">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="42" column="78" />
+        <mark key="." line="42" column="78" />
+        <mark key="^" line="42" column="78" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lasttdd/lists/tests.py" timestamp="1553537697995">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+      </file>
+      <file name="/manage.py@pytdd" timestamp="1553529336905">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="38" filename="$USER_HOME$/PycharmProjects/lasttdd/functional_tests.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/lasttdd/functional_tests.py" />
+      <jump line="28" column="26" filename="$USER_HOME$/PycharmProjects/rogue3/engine.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/PycharmProjects/rogue3/engine.py" />
+      <jump line="84" column="9" filename="$USER_HOME$/PycharmProjects/rogue3/engine.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/PycharmProjects/rogue3/engine.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBub2luc3BlY3Rpb24gU3BlbGxDaGVja2luZ0luc3BlY3Rpb24K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>key.vk == libtcod.KEY_ESCAPE:</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IGMgPSBnZXRfY29uZmlnKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Yy5UZXJtaW5hbEludGVyYWN0aXZlU2hlbGwucHJvbXB0X2NsYXNzID0gSVBzdGVyUHJvbXB0cwoKaGlnaGxpZ2h0aW5nX2lwc3R5bGUgPSBJUHN0ZXJTdHlsZSgpLm92ZXJyaWRlc19saW51eCgpCmMuVGVybWluYWxJbnRlcmFjdGl2ZVNoZWxsLmhpZ2hsaWdodGluZ19zdHlsZV9vdmVycmlkZXMgPSBoaWdobGlnaHRpbmdfaXBzdHlsZQojIyBFeGVjdXRlIHRoZSBnaXZlbiBjb21tYW5kIHN0cmluZy4KYy5JbnRlcmFjdGl2ZVNoZWxsQXBwLmNvZGVfdG9fcnVuID0gJycK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnRjb2RweSBhcyBsaWJ0Y29kCgpkZWYgbWFpbigpOgoJc2NyZWVuX3dpZHRoID0gODAKCXNjcmVlbl9oZWlnaHQgPSA1MAoKCWxpYnRjb2QuY29uc29sZV9zZXRfY3VzdG9tX2ZvbnQoJ2FyaWFsMTB4MTAucG5nJywgbGlidGNvZC5GT05UX1RZUEVfR1JBWVNDQUxFIHwgbGlidGNvZC5GT05UX0xBWU9VVF9UQ09EKQoKCWxpYnRjb2QuY29uc29sZV9pbml0X3Jvb3Qoc2NyZWVuX3dpZHRoLCBzY3JlZW5faGVpZ2h0LCAnUm9ndWUnLCBGYWxzZSkKCgl3aGlsZSBub3QgbGlidGNvZC5jb25zb2xlX2lzX3dpbmRvd19jbG9zZWQoKToKCQlsaWJ0Y29kLmNvbnNvbGVfZ2V0X2RlZmF1bHRfZm9yZWdyb3VuZCgwLCBsaWJ0Y29kLndoaXRlKQoJCWxpYnRjb2QuY29uc29sZV9wdXRfY2hhcigwLCAxLCAxLCAnQCcsIGxpYnRjb2QuQktHTkRfTk9ORSkKCgkJa2V5ID0gbGlidGNvZC5jb25zb2xlX2NoZWNrX2Zvcl9rZXlwcmVzcygpCgoJCWlmIGtleS52ayA9PSBsaWJ0Y29kLktFWV9FU0NBUEU6CgkJCXJldHVybiBUcnVlCgoKaWYgX19uYW1lX19pbXBvcnQgdGRsCgoKZGVmIG1haW4oKToKCXNjcmVlbl93aWR0aCA9IDgwCglzY3JlZW5faGVpZ2h0ID0gNTAKCgl0ZGwuc2V0X2ZvbnQoJ2FyaWFsMTB4MTAucG5nJywgZ3JleXNjYWxlPVRydWUsIGFsdExheW91dD1UcnVlKQoKCXJvb3RfY29uc29sZSA9IHRkbC5pbml0KHNjcmVlbl93aWR0aCwgc2NyZWVuX2hlaWdodCwgdGl0bGU9J1JvZ3VlbGlrZScpCgoJd2hpbGUgbm90IHRkbC5ldmVudC5pc193aW5kb3dfY2xvc2VkKCk6CgkJcm9vdF9jb25zb2xlLmRyYXdfY2hhcigxLCAxLCAnQCcsIGJnPU5vbmUsIGZnPSgyNTUsIDI1NSwgMjU1KSkKCQl0ZGwuZmx1c2goKQoKCQlyb290X2NvbnNvbGUuZHJhd19jaGFyKDEsIDEsICcgJywgYmc9Tm9uZSkKCgkJZm9yIGV2ZW50IGluIHRkbC5ldmVudC5nZXQoKToKCQkJaWYgZXZlbnQudHlwZSA9PSAnS0VZRE9XTic6CgkJCQl1c2VyX2lucHV0ID0gZXZlbnQKCQkJCWJyZWFrCgkJCWVsc2U6CgkJCQl1c2VyX2lucHV0ID0gTm9uZQoKCQkJaWYgbm90IHVzZXJfaW5wdXQ6CgkJCQljb250aW51ZQoKCQkJaWYgdXNlcl9pbnB1dC5rZXkgPT0gJ0VTQ0FQRSc6CgkJCQlyZXR1cm4gVHJ1ZQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CgltYWluKCkgPWltcG9ydCB0ZGwKCgpkZWYgbWFpbigpOgoJc2NyZWVuX3dpZHRoID0gODAKCXNjcmVlbl9oZWlnaHQgPSA1MAoKCXRkbC5zZXRfZm9udCgnYXJpYWwxMHgxMC5wbmcnLCBncmV5c2NhbGU9VHJ1ZSwgYWx0TGF5b3V0PVRydWUpCgoJcm9vdF9jb25zb2xlID0gdGRsLmluaXQoc2NyZWVuX3dpZHRoLCBzY3JlZW5faGVpZ2h0LCB0aXRsZT0nUm9ndWVsaWtlJykKCgl3aGlsZSBub3QgdGRsLmV2ZW50LmlzX3dpbmRvd19jbG9zZWQoKToKCQlyb290X2NvbnNvbGUuZHJhd19jaGFyKDEsIDEsICdAJywgYmc9Tm9uZSwgZmc9KDI1NSwgMjU1LCAyNTUpKQoJCXRkbC5mbHVzaCgpCgoJCXJvb3RfY29uc29sZS5kcmF3X2NoYXIoMSwgMSwgJyAnLCBiZz1Ob25lKQoKCQlmb3IgZXZlbnQgaW4gdGRsLmV2ZW50LmdldCgpOgoJCQlpZiBldmVudC50eXBlID09ICdLRVlET1dOJzoKCQkJCXVzZXJfaW5wdXQgPSBldmVudAoJCQkJYnJlYWsKCQkJZWxzZToKCQkJCXVzZXJfaW5wdXQgPSBOb25lCgoJCQlpZiBub3QgdXNlcl9pbnB1dDoKCQkJCWNvbnRpbnVlCgoJCQlpZiB1c2VyX2lucHV0LmtleSA9PSAnRVNDQVBFJzoKCQkJCXJldHVybiBUcnVlCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKCW1haW4oKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CW1haW4oKT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHRkbAoKCmRlZiBtYWluKCk6CglzY3JlZW5fd2lkdGggPSA4MAoJc2NyZWVuX2hlaWdodCA9IDUwCgoJdGRsLnNldF9mb250KCdhcmlhbDEweDEwLnBuZycsIGdyZXlzY2FsZT1UcnVlLCBhbHRMYXlvdXQ9VHJ1ZSkKCglyb290X2NvbnNvbGUgPSB0ZGwuaW5pdChzY3JlZW5fd2lkdGgsIHNjcmVlbl9oZWlnaHQsIHRpdGxlPSdSb2d1ZWxpa2UnKQoKCXdoaWxlIG5vdCB0ZGwuZXZlbnQuaXNfd2luZG93X2Nsb3NlZCgpOgoJCXJvb3RfY29uc29sZS5kcmF3X2NoYXIoMSwgMSwgJ0AnLCBiZz1Ob25lLCBmZz0oMjU1LCAyNTUsIDI1NSkpCgkJdGRsLmZsdXNoKCkKCgkJcm9vdF9jb25zb2xlLmRyYXdfY2hhcigxLCAxLCAnICcsIGJnPU5vbmUpCgoJCWZvciBldmVudCBpbiB0ZGwuZXZlbnQuZ2V0KCk6CgkJCWlmIGV2ZW50LnR5cGUgPT0gJ0tFWURPV04nOgoJCQkJdXNlcl9pbnB1dCA9IGV2ZW50CgkJCQlicmVhawoJCQllbHNlOgoJCQkJdXNlcl9pbnB1dCA9IE5vbmUKCgkJCWlmIG5vdCB1c2VyX2lucHV0OgoJCQkJY29udGludWUKCgkJCWlmIHVzZXJfaW5wdXQua2V5ID09ICdFU0NBUEUnOgoJCQkJcmV0dXJuIFRydWUKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgoJbWFpbigpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBDcmVhdGUgeW91ciB0ZXN0cyBoZXJlLgpjbGFzcyBTbW9rZVRlc3QoVGVzdENhc2UpOgoKCWRlZiB0ZXN0X2JhZF9tYXRoKHNlbGYpOgoJCXNlbGYuYXNzZXJ0RXF1YWwoMSArIDEsIDMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YnJvd3Nlci5xdWl0KCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>key.vk == libtcod.KEY_ESCAPE:</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

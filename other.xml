@@ -1,0 +1,36 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60943645" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="LAST_INJECTED_LANGUAGE" value="Python" />
+    <property name="PACKAGE_FILTER" value="ipster&#10;ipython&#10;tdl&#10;tcod&#10;selenium" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="PythonUnitTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="TrendingPluginsSearchHistory" value="bookmark&#10;mypy&#10;acejump&#10;ace&#10;rainbow" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/rogue3&#10;/home/dan/.ipython/profile_mrcoolguy/ipython_config.py&#10;/usr/bin/nvim&#10;/home/dan/projects/rust/roguelike/arial10x10.png&#10;/home/dan/PycharmProjects/lasttdd/manage.py&#10;/home/dan/PycharmProjects/lasttdd/lists/tests.py&#10;/home/dan/PycharmProjects/lasttdd/functional_tests.py&#10;/home/dan/PycharmProjects/pytdd&#10;/home/dan/PycharmProjects/tddgoat" />
+    <property name="file.gist.reindex.count" value="5899" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1553638333637" />
+    <property name="lastTip" value="7" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="settings.code.style.selected.tab.Python" value="Wrapping and Braces" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/rogue3-VOMrXh7V/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
